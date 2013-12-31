@@ -1,0 +1,13 @@
+{
+  "name": "rounded-timestamp",
+  "version": "0.0.1",
+  "repository": "visionmedia/node-rounded-timestamp",
+  "description": "",
+  "keywords": [],
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "license": "MIT"
+}
