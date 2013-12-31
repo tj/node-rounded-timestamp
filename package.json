@@ -2,8 +2,8 @@
   "name": "rounded-timestamp",
   "version": "0.0.1",
   "repository": "visionmedia/node-rounded-timestamp",
-  "description": "",
-  "keywords": [],
+  "description": "rounded timestamp utilities",
+  "keywords": ["redis", "timestamp"],
   "dependencies": {},
   "devDependencies": {
     "mocha": "*",
