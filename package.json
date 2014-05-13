@@ -1,6 +1,6 @@
 {
   "name": "rounded-timestamp",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "repository": "visionmedia/node-rounded-timestamp",
   "description": "rounded timestamp utilities",
   "keywords": [
