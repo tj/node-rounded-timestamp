@@ -3,11 +3,15 @@
   "version": "0.0.1",
   "repository": "visionmedia/node-rounded-timestamp",
   "description": "rounded timestamp utilities",
-  "keywords": ["redis", "timestamp"],
+  "keywords": [
+    "redis",
+    "timestamp"
+  ],
   "dependencies": {},
   "devDependencies": {
     "mocha": "*",
-    "should": "*"
+    "should": "*",
+    "ms": "^0.6.2"
   },
   "license": "MIT"
 }
